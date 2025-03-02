@@ -1,4 +1,4 @@
-# Практична робота 3
+# Практична робота 4
 ## Завдання - виправити помилки у коді за допомогою правил PEP8
 
 ### [Посилання на лекцію](https://docs.google.com/presentation/d/1ey5vT46Ww6WixXPJeVzmBSyIfnyRQaMgnIbwqXhgvc4/edit?pli=1#slide=id.g2b03686ce68_0_312)
