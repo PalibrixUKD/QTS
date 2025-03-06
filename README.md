@@ -30,7 +30,7 @@ pip install selenium
 ## Завдання 5 - Вибір елементів з випадаючого списку
 
 ### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/dropdown)
-### [Посилання на навчальний матеріал](https://А-це-самі-давайте)
+### [Посилання на навчальний матеріал](https://www.youtube.com/watch?v=E4WlUXrJgy4)
 
 
 
