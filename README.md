@@ -5,22 +5,33 @@
 pip install selenium
 ``
 
-## Завдання 1 - Знайти усі елементи на сторінці. Вивести у консоль назву та посилання 
 
-### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/)
-### [Посилання на навчальний матеріал](https://www.geeksforgeeks.org/locating-multiple-elements-in-selenium-python/)
+## Завдання 1 - Відкрити контекстне меню
 
-## Приклад
-1. A/B Testing - https://the-internet.herokuapp.com/abtest
-2. Add/Remove Elements - https://the-internet.herokuapp.com/add_remove_elements/
-3. ...
+### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/context_menu)
+### [Посилання на навчальний матеріал](https://www.selenium.dev/documentation/webdriver/actions_api/mouse/)
 
-## Завдання 2 - Автоматизувати дію (Action) Drag-and-Drop (Взяти і перемістити)
 
-### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/drag_and_drop)
-### [Посилання на навчальний матеріал](https://www.geeksforgeeks.org/drag_and_drop-action-chains-in-selenium-python/)
+## Завдання 2 - Автоматизувати checkbox
 
-### На сайті необхідно знайти два елементи та поміняти їх місцями
+### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/checkboxes)
+### [Посилання на навчальний матеріал](https://www.selenium.dev/documentation/webdriver/actions_api/mouse/)
+
+## Завдання 3 - Нескінченний скрол
+
+### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/infinite_scroll)
+### [Посилання на навчальний матеріал](https://www.selenium.dev/documentation/webdriver/actions_api/wheel/)
+
+## Завдання 4 - Ввід даних
+
+### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/inputs)
+### [Посилання на навчальний матеріал](https://pythonexamples.org/python-selenium-enter-value-in-input-text/)
+
+## Завдання 5 - Вибір елементів з випадаючого списку
+
+### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/dropdown)
+### [Посилання на навчальний матеріал](https://А-це-самі-давайте)
+
 
 
 ---
