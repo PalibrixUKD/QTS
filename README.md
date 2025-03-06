@@ -1,4 +1,4 @@
-# Практична робота 7
+# Практична робота 8
 
 ### Команда інсталяції
 ``
@@ -6,33 +6,23 @@ pip install selenium
 ``
 
 
-## Завдання 1 - Відкрити контекстне меню
+## Завдання - Симуляція дій користувача на вебсайті
 
-### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/context_menu)
-### [Посилання на навчальний матеріал](https://www.selenium.dev/documentation/webdriver/actions_api/mouse/)
+### [Посилання на тестовий сайт](https://www.saucedemo.com/)
+### [Посилання на навчальний матеріал](https://а-це-самі-давайте)
 
+1. Вхід на сайт
+2. Переглянути кожен товар
+3. Додати два товари до корзини
+   * Товари на ваш вибір
 
-## Завдання 2 - Автоматизувати checkbox
-
-### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/checkboxes)
-### [Посилання на навчальний матеріал](https://www.selenium.dev/documentation/webdriver/actions_api/mouse/)
-
-## Завдання 3 - Нескінченний скрол
-
-### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/infinite_scroll)
-### [Посилання на навчальний матеріал](https://www.selenium.dev/documentation/webdriver/actions_api/wheel/)
-
-## Завдання 4 - Ввід даних
-
-### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/inputs)
-### [Посилання на навчальний матеріал](https://pythonexamples.org/python-selenium-enter-value-in-input-text/)
-
-## Завдання 5 - Вибір елементів з випадаючого списку
-
-### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/dropdown)
-### [Посилання на навчальний матеріал](https://www.youtube.com/watch?v=E4WlUXrJgy4)
-
-
+Після завершення попередніх етапів:
+4. Перейти до корзини
+5. Видалити один з товарів
+6. Оформити та підтвердити замовлення іншого
+7. Перейти на головну сторінку
+8. Вийти з сайту
+   * Необхідно зробити вихід користувача з сайту через кнопку Logout
 
 ---
 ## Завдання варто документувати на кожному етапі через print() або logging.info() у консоль
