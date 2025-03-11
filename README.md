@@ -8,7 +8,7 @@ pip install pytest
 
 ### Склонуйте даний репозиторій або скопіюйте файли для роботи з ними:
 ``
-git clone https://github.com/PalibrixUKD/SD-20-QTS.git
+git clone https://github.com/PalibrixUKD/QTS.git
 ``
 ## На даній гілці є 2 файли із завданнями: 
 ### 1. math_operations.py
