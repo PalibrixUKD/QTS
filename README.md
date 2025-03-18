@@ -13,6 +13,7 @@ pip install selenium
 
 
 ## Завдання 2 - Автоматизувати checkbox
+Необхідно поміняти чекбокси місцями (активувати порожній та деактивувати активний)
 
 ### [Посилання на тестовий сайт](https://the-internet.herokuapp.com/checkboxes)
 ### [Посилання на навчальний матеріал](https://www.selenium.dev/documentation/webdriver/actions_api/mouse/)
